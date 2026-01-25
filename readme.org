@@ -1,0 +1,5 @@
+* Boards PYQ File Hosting
+
+This repo serves as file hosting for CBSE XII Board Examination PYQs
+
+View source to get the links (raw or github)
